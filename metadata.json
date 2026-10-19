@@ -1,0 +1,6 @@
+{
+  "name": "Nihongo Note - Catatan Santai Belajar Bahasa Jepang",
+  "description": "Buku catatan komprehensif belajar bahasa Jepang pemula hingga menengah dengan materi Bunpou, Kotoba, Kaiwa percakapan, Sakubun karangan lengkap dengan bedah tata bahasa & kanji, serta lembar kerja salin buku catatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
